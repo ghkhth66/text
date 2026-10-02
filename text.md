@@ -1,5 +1,5 @@
 # 모터 제조 공정에서 L값(Inductance) 관리 방법과 영향 인자
-
+https://markdownlivepreview.com/
 ---
 
 # 1. 개요
