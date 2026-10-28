@@ -1,0 +1,16 @@
+CS+ V8.16.00  [19 Jun 2026] [Property - RX26T_Fan Property]
+2026년 10월 28일 수요일 오후 1:48:20
+Project Name :RX26T_Fan
+Tool : R5F526T8AxFL, CC-RX, RX E2 Lite, Program Analyzer
+------------------------------------------------------------------------------
+ Category  Name                                                           Value                                                  Active help
+[Project]
+ File                                                                                                                            
+           File name                                                      RX26T_Fan.mtpj                                         This is the name of the file to which the information of this main project is to be saved.
+           Absolute path                                                  D:\Fan_Drive_Renesas_260922\CubeSuite+\RX26T_Fan.mtpj  This is the absolute path of the file that holds the information of this project.
+           Type of storage and sharing environment-dependent information  Save for each user                                     Selects the type of storage and sharing of environment-dependent information storage file (*.mtud).Refer to the Project Operatioin of the help for the details.
+ License                                                                                                                         
+           Use standard edition for floating license                      Yes                                                    Selects whether to use floating license for standard edition only.If you don't want to use floating license besides standard edition, select "Yes".
+           Standard edition for floating license is currently in use      Yes                                                    Displays standard edition for floating license currently in use.
+ Notes                                                                                                                           
+           Memo                                                           Memo[0]                                                This is the memo added to this main project.
