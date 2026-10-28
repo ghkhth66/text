@@ -1,0 +1,18 @@
+CS+ V8.16.00  [19 Jun 2026] [Property - R5F526T8AxFL Property]
+2026년 10월 28일 수요일 오후 1:47:00
+Project Name :RX26T_Fan
+Tool : R5F526T8AxFL, CC-RX, RX E2 Lite, Program Analyzer
+------------------------------------------------------------------------------
+ Category                     Name                       Value                                                                                Active help
+[Microcontroller Information]
+ File Information                                                                                                                             
+                              File name                  R5F526T8AxFL_common.xml                                                              This is the file name of this device file.
+                              Absolute path              C:\Program Files (x86)\Renesas Electronics\CS+\CC\Device\RX\R5F526T8AxFL_common.xml  This is the absolute path of this device file.
+ Microcontroller Information                                                                                                                  
+                              Microcontroller name       R5F526T8AxFL                                                                         This is the microcontroller name to be used for this project.
+                              Nickname                   RX26T                                                                                This is the nickname of this microcontroller.
+                              File version               V3.19.00                                                                             This is the version of this device file.
+                              On-chip ROM size [KBytes]  128                                                                                  This is the on-chip ROM size of this microcontroller.
+                              On-chip RAM size [Bytes]   49152                                                                                This is the on-chip RAM size of this microcontroller.
+ Notes                                                                                                                                        
+                              Memo                       Memo[0]                                                                              This is the memo to be added to this microcontroller information.
